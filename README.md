@@ -1,0 +1,1 @@
+This is a fork of https://code.google.com/p/rikaikun/ with the intention to maintain a port which can be published for Chromium based Opera. It will follow upstream, and changes will be kept at a minimum. Hence, further development is unlikely to happen on this repository unless someone feels like taking over.
